@@ -5,6 +5,7 @@ function DeleteForm() {
 
   return (
     <>
+    <h3>DeleteForm</h3>
     </>
   )
 }

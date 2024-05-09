@@ -5,6 +5,7 @@ function AdminBar() {
 
   return (
     <>
+    <h3>AdminBar</h3>
     </>
   )
 }

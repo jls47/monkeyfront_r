@@ -5,6 +5,7 @@ function Browse() {
 
   return (
     <>
+    <h3>Browse</h3>
     </>
   )
 }
