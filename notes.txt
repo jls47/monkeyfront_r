@@ -1,0 +1,6 @@
+-Use types for both songs and requests
+
+-Structure like the vue original
+-Make sure you control the rerendering
+-Make sure you get component contexts working as expected
+

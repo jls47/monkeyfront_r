@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import './Modal.css'
 
-function Modal() {
+function Modal({ type }: { type: string }) {
 
   return (
     <>
-    <h3>Modal</h3>
+    <h3>Modal {type}</h3>
     </>
   )
 }
