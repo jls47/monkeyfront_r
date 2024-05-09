@@ -5,7 +5,7 @@ function Navbar() {
 
   return (
     <>
-    <h3>Navbar</h3>
+    <h3 className = "test">Navbar</h3>
     </>
   )
 }
