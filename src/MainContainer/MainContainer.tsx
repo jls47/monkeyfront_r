@@ -18,13 +18,13 @@ function MainContainer() {
 
   return (
     <>
-    <Navbar></Navbar>
-    <AdminBar></AdminBar>
-    <Modal type={"login"}></Modal>
-    <h3>MainContainer</h3>
-    <Search></Search>
-    <Results></Results>
-    <Upcoming></Upcoming>
+        <Navbar></Navbar>
+        <AdminBar></AdminBar>
+        <Modal type={"login"}></Modal>
+        <h3>MainContainer</h3>
+        <Search></Search>
+        <Results></Results>
+        <Upcoming></Upcoming>
     </>
   )
 }
